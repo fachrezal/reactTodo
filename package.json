@@ -1,13 +1,11 @@
 {
-  "name": "react",
+  "name": "react-todo-list",
   "version": "1.0.0",
-  "description": "React example starter project",
-  "keywords": [
-    "react",
-    "starter"
-  ],
+  "description": "",
+  "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "@emotion/core": "10.0.28",
     "classnames": "2.2.6",
     "prop-types": "15.7.2",
     "react": "16.13.1",
