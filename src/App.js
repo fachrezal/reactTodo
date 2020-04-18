@@ -10,6 +10,11 @@ const theme = {
       black: "#484848",
       red: "rgb(219, 67, 67)"
     }
+  },
+  background: {
+    color: {
+      primary: "#f2eecb"
+    }
   }
 };
 

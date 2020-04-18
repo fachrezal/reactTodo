@@ -6,7 +6,7 @@ export const header = () =>
     align-items: flex-start;
   `;
 
-export const headerTitle = theme =>
+export const headerTitle = ({ theme }) =>
   css`
     width: 52%;
     text-align: center;
